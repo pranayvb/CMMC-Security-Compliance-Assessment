@@ -1,5 +1,3 @@
-# CMMC-Security-Compliance-Assessment
-
 # CMMC 2.0 Level 1 Security Assessment - Michael Scott Paper Company
 
 ## **Overview**
